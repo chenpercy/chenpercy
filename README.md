@@ -7,7 +7,7 @@ Welcome to my [blog](https://chenpercy.github.io/), there are many technical pos
 ### Github Status
 Maintain my github from 2021/12/01
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenpercy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenpercy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Twitch
 I'm a game lover, and love to share my gaming experience with people. You can visit twitch and see whether I'm streaming or not 😉.
