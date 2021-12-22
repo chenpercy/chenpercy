@@ -4,7 +4,10 @@
 
 ### Github Status
 Maintain my github from 2021/12/01
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenpercy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 `You can find me in these platforms below.`
 
