@@ -2,7 +2,7 @@
 - 😎 I'm Percy.
 - 🔭 I’m currently working on HTC healthcare dept. DeepQ.
 - 🌱 I’m currently learning how to integrate AI Copilot to my daily job in the best manner.
-- 📫 How to reach me: cpercy5182@gmail.com
+- 📫 How to reach me: hiann5182@gmail.com
 - 👯 I’m looking to collaborate on people who wanna bring convinience to this world.
 - 💬 Ask me about any food suggestions?
 - ⚡ Fun fact: Of all the foods I've tasted, none surpass mullet roe.
